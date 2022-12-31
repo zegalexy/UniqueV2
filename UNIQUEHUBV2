@@ -1,5 +1,5 @@
 local gamelist = {
-    [3183403065]  = "BloxFruit",
+    [994732206]  = "BloxFruit",
     [..] = ""
 }
 local checkgame = gamelist[game.gameId]
