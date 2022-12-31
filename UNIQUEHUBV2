@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "BloxFruit",
+    [994732206]  = "https://raw.githubusercontent.com/zegalexy/UniqueV2/main/KaitanV2",
     [..] = ""
 }
 local checkgame = gamelist[game.gameId]
