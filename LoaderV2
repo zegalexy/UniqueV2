@@ -1,6 +1,6 @@
 local gamelist = {
     [994732206]  = "https://raw.githubusercontent.com/zegalexy/UniqueV2/main/KaitanV2",
-    [..] = ""
+    [..] = "https://raw.githubusercontent.com/zegalexy/UniqueV2/main/ProjectNewWorld"
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
